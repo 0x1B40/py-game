@@ -1,5 +1,5 @@
 # Demo
-[![Watch the video](thumbnail.jpg)](https://youtu.be/-SEVWrDj25g)
+[![Watch the video](/thumbnail.png)](https://youtu.be/-SEVWrDj25g)
 
 # RL Space Adventure
 
