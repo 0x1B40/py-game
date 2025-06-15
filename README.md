@@ -1,3 +1,6 @@
+# Demo
+[![Watch the video](thumbnail.jpg)](https://youtu.be/-SEVWrDj25g)
+
 # RL Space Adventure
 
  a Pygame-based, space-themed game integrating reinforcement learning (RL) with Q-learning and interactive gameplay. Players control a spaceship on a grid to collect stars 
